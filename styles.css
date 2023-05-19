@@ -60,6 +60,10 @@ nav {
   margin-bottom: 64px;
 }
 
+.memory p {
+  text-align: justify;
+}
+
 .memory small {
   color: #bebebf;
   font-size: 0.75rem;
